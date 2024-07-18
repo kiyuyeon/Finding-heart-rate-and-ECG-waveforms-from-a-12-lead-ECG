@@ -1,4 +1,4 @@
-# Finding-heart-rate-and-ECG-waveforms-from-a-12-lead-ECG.
+# Finding-heart-rate-and-ECG-waveforms-from-a-12-lead-ECG
 
 ## 시작하기
 
