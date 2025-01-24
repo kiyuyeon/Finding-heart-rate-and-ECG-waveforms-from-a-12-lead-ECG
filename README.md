@@ -27,8 +27,5 @@ https://www.kaggle.com/datasets/bjoernjostein/ptbxl-electrocardiography-database
 
 ---
 
-
-이 추가 기능을 통해 코드의 효율성과 사용자 편의성을 크게 향상할 수 있습니다.
-
 감사합니다.
 
